@@ -7,7 +7,7 @@ If you find RFAPC useful for your work please cite:
 @misc{oh2026rfapc,
   author       = {Oh, Yun and Yun, Sukmin},
   title        = {Reference-Free Assessment of Physical Consistency in World Model-based Video Generation},
-  howpublished = {Presented at the 2nd 3D-LLM-VLA Workshop at CVPR 2026},
+  howpublished = {Accepted at the 2nd 3D-LLM-VLA Workshop at CVPR 2026},
   year         = {2026},
   note         = {Non-archival workshop paper},
 }
